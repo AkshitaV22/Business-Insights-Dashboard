@@ -1,0 +1,101 @@
+﻿Product_Category,Customer_Segment,Payment_Method,Region,Sales_Channel,Order_Status,Sale_Amount,Quantity_Sold,Discount_Rate,Profit_Margin,Delivery_Days,City
+Electronics,Individual,Credit Card,South,Online,Cancelled,599.34,22,0.12,0.12,1.81,San Jose
+Clothing,Business,Bank Transfer,East,Online,Completed,472.35,42,0.13,0.14,3.80,Los Angeles
+Home & Kitchen,Wholesale,Bank Transfer,North,Online,Cancelled,629.54,43,0.15,0.27,5.01,San Diego
+Sports & Outdoors,Wholesale,Credit Card,East,Catalog,Returned,804.61,34,0.15,0.26,5.09,Philadelphia
+Electronics,Business,Cash,South,Phone,Pending,453.17,47,0.03,0.20,4.10,Phoenix
+Electronics,Individual,Bank Transfer,South,In-store,Cancelled,453.17,58,0.05,0.21,6.25,Dallas
+Electronics,Wholesale,Cash,West,Online,Cancelled,815.84,88,0.13,0.33,2.86,New York
+Electronics,Individual,PayPal,North,Catalog,Returned,653.49,53,0.13,0.14,4.72,Phoenix
+Electronics,Individual,Bank Transfer,South,Catalog,Cancelled,406.11,55,0.13,0.25,5.24,Philadelphia
+Clothing,Wholesale,Cash,West,Catalog,Cancelled,608.51,49,0.29,0.18,6.03,Phoenix
+Sports & Outdoors,Individual,Cash,North,In-store,Returned,407.32,12,0.13,0.18,6.42,Philadelphia
+Home & Kitchen,Wholesale,PayPal,South,Online,Completed,406.85,49,0.16,0.31,2.75,Philadelphia
+Home & Kitchen,Individual,Cash,South,Phone,Returned,548.39,51,0.15,0.28,1.93,San Antonio
+Home & Kitchen,Wholesale,Cash,North,Phone,Completed,117.34,99,0.13,0.28,7.56,Houston
+Home & Kitchen,Business,PayPal,North,Catalog,Pending,155.02,46,0.08,0.33,5.66,San Diego
+Clothing,Wholesale,Bank Transfer,North,In-store,Completed,387.54,56,0.14,0.20,3.50,San Antonio
+Beauty & Health,Wholesale,Cash,South,In-store,Completed,297.43,49,0.06,0.27,8.10,Dallas
+Sports & Outdoors,Wholesale,Cash,South,In-store,Pending,562.85,27,0.09,0.17,5.23,San Antonio
+Electronics,Wholesale,Cash,West,Phone,Completed,318.40,73,0.08,0.23,7.36,Chicago
+Beauty & Health,Individual,Credit Card,East,Catalog,Returned,217.54,65,0.10,0.19,5.14,Chicago
+Home & Kitchen,Business,PayPal,North,Online,Completed,793.13,66,0.22,0.21,9.12,San Diego
+Beauty & Health,Wholesale,Credit Card,South,Phone,Pending,454.84,32,0.01,0.26,8.51,Phoenix
+Sports & Outdoors,Individual,PayPal,South,Catalog,Returned,513.51,78,0.13,0.12,4.50,Houston
+Electronics,Business,Bank Transfer,North,Catalog,Pending,215.05,22,0.02,0.41,6.94,San Diego
+Electronics,Business,Bank Transfer,East,Online,Pending,391.12,62,0.08,0.10,6.29,Philadelphia
+Sports & Outdoors,Business,Cash,North,Online,Cancelled,522.18,94,0.15,0.08,7.74,Los Angeles
+Sports & Outdoors,Business,PayPal,East,Online,Cancelled,269.80,30,0.10,0.32,3.07,Houston
+Home & Kitchen,Wholesale,Bank Transfer,South,In-store,Pending,575.14,39,0.05,0.28,6.37,Houston
+Electronics,Wholesale,PayPal,East,Online,Pending,379.87,52,0.06,0.26,7.12,Philadelphia
+Beauty & Health,Individual,Bank Transfer,West,Catalog,Pending,441.66,40,0.13,0.26,1.48,Philadelphia
+Clothing,Individual,Credit Card,South,Online,Cancelled,379.66,19,0.06,0.20,2.63,New York
+Clothing,Individual,Bank Transfer,West,Catalog,Cancelled,870.46,51,0.11,0.11,1.00,San Diego
+Sports & Outdoors,Business,Credit Card,North,Phone,Completed,497.30,29,0.10,0.21,4.46,Philadelphia
+Home & Kitchen,Business,Bank Transfer,North,In-store,Completed,288.46,59,0.07,0.13,6.44,Chicago
+Clothing,Wholesale,Cash,North,Phone,Pending,664.51,32,0.21,0.30,8.00,Dallas
+Electronics,Business,Credit Card,East,Phone,Returned,255.83,81,0.13,0.19,5.15,Los Angeles
+Sports & Outdoors,Business,Bank Transfer,South,Catalog,Returned,541.77,34,0.00,0.12,8.26,San Diego
+Beauty & Health,Business,Cash,North,Phone,Cancelled,108.07,44,0.11,0.17,2.24,San Jose
+Sports & Outdoors,Individual,Credit Card,North,Catalog,Cancelled,234.36,66,0.07,0.24,1.59,Chicago
+Beauty & Health,Individual,Cash,South,Online,Cancelled,539.37,25,0.14,0.14,4.89,Phoenix
+Sports & Outdoors,Wholesale,PayPal,North,Online,Pending,647.69,55,0.06,0.12,5.77,Philadelphia
+Sports & Outdoors,Business,PayPal,West,Catalog,Returned,534.27,76,0.09,0.22,4.93,San Jose
+Sports & Outdoors,Business,Credit Card,South,Online,Completed,476.87,18,0.13,0.22,1.00,Philadelphia
+Beauty & Health,Wholesale,Bank Transfer,South,In-store,Pending,439.78,54,0.14,0.15,4.82,Houston
+Beauty & Health,Business,Credit Card,South,Phone,Completed,204.30,55,0.04,0.15,2.39,Chicago
+Sports & Outdoors,Business,Cash,West,In-store,Completed,356.03,66,0.08,0.22,6.34,Houston
+Clothing,Individual,Bank Transfer,South,Phone,Pending,407.87,25,0.08,0.06,5.73,New York
+Home & Kitchen,Wholesale,PayPal,West,Online,Completed,711.42,24,0.07,0.06,3.12,Houston
+Home & Kitchen,Wholesale,Bank Transfer,South,In-store,Returned,568.72,60,0.19,0.13,3.97,New York
+Home & Kitchen,Wholesale,PayPal,East,Online,Completed,147.39,56,0.12,0.18,2.88,New York
+Beauty & Health,Wholesale,Bank Transfer,North,Phone,Returned,564.82,55,0.04,0.23,4.87,San Jose
+Beauty & Health,Individual,Bank Transfer,East,Catalog,Returned,422.98,57,0.15,0.35,6.91,Philadelphia
+Clothing,Individual,Bank Transfer,North,Catalog,Returned,364.62,36,0.21,0.29,3.03,Phoenix
+Home & Kitchen,Business,Cash,West,In-store,Cancelled,622.34,55,0.15,0.18,6.01,Houston
+Home & Kitchen,Business,Cash,East,Online,Completed,706.20,56,0.02,0.20,3.94,Chicago
+Sports & Outdoors,Business,Credit Card,South,Online,Pending,686.26,36,0.08,0.10,3.41,New York
+Beauty & Health,Business,Credit Card,North,In-store,Pending,332.16,87,0.16,0.20,4.79,Philadelphia
+Home & Kitchen,Individual,PayPal,North,Catalog,Completed,438.16,59,0.06,0.17,2.93,Los Angeles
+Clothing,Wholesale,Cash,East,Phone,Cancelled,566.25,26,0.12,0.23,3.89,San Diego
+Clothing,Individual,PayPal,West,In-store,Cancelled,695.11,63,0.14,0.12,2.60,San Jose
+Home & Kitchen,Business,Credit Card,East,Phone,Returned,404.17,31,0.05,0.25,8.93,Phoenix
+Beauty & Health,Individual,PayPal,West,Catalog,Completed,462.87,66,0.10,0.35,5.07,San Antonio
+Clothing,Wholesale,Credit Card,West,Online,Completed,278.73,73,0.00,0.19,3.60,San Jose
+Sports & Outdoors,Wholesale,Cash,North,Catalog,Pending,260.76,34,0.05,0.24,5.43,Los Angeles
+Clothing,Individual,Bank Transfer,East,In-store,Completed,662.51,69,0.09,0.27,4.78,San Diego
+Electronics,Individual,Cash,East,Online,Cancelled,771.25,58,0.04,0.16,4.56,Los Angeles
+Electronics,Individual,PayPal,West,In-store,Completed,485.60,66,0.18,0.22,6.23,Houston
+Beauty & Health,Business,PayPal,East,In-store,Pending,700.71,88,0.03,0.20,6.52,New York
+Home & Kitchen,Individual,Cash,South,Catalog,Returned,572.33,45,0.08,0.21,3.94,Phoenix
+Beauty & Health,Individual,Cash,South,In-store,Pending,370.98,35,0.11,0.12,3.85,Dallas
+Beauty & Health,Individual,Credit Card,East,Catalog,Pending,572.28,32,0.17,0.20,4.45,New York
+Beauty & Health,Wholesale,PayPal,East,Online,Returned,807.61,34,0.03,0.25,1.00,Dallas
+Beauty & Health,Wholesale,PayPal,West,Catalog,Pending,492.83,48,0.16,0.35,1.97,San Diego
+Sports & Outdoors,Business,Cash,South,Online,Pending,812.93,57,0.10,0.30,7.73,Philadelphia
+Sports & Outdoors,Business,Bank Transfer,South,Catalog,Completed,0.00,56,0.05,0.42,8.29,San Antonio
+Clothing,Wholesale,PayPal,North,Phone,Completed,664.38,67,0.12,0.12,4.50,Chicago
+Electronics,Wholesale,Bank Transfer,West,Phone,Returned,517.41,50,0.11,0.29,6.15,New York
+Beauty & Health,Wholesale,Cash,North,In-store,Completed,440.20,79,0.07,0.22,5.62,Phoenix
+Clothing,Individual,Cash,South,Catalog,Completed,518.35,45,0.10,0.42,11.16,Los Angeles
+Electronics,Individual,Credit Card,West,Catalog,Pending,102.49,104,0.08,0.12,7.24,Phoenix
+Home & Kitchen,Wholesale,PayPal,East,Online,Cancelled,456.07,63,0.11,0.12,4.74,San Diego
+Sports & Outdoors,Individual,Bank Transfer,West,In-store,Completed,571.42,33,0.13,0.14,3.09,Dallas
+Electronics,Individual,Credit Card,East,Catalog,Cancelled,795.58,29,0.18,0.00,1.79,Los Angeles
+Home & Kitchen,Business,PayPal,East,In-store,Completed,396.35,60,0.04,0.15,5.41,Chicago
+Electronics,Wholesale,Credit Card,West,Phone,Completed,338.30,46,0.21,0.12,3.49,Chicago
+Sports & Outdoors,Wholesale,Cash,East,Catalog,Returned,399.65,64,0.00,0.22,2.16,New York
+Sports & Outdoors,Individual,PayPal,North,Catalog,Returned,683.08,59,0.09,0.23,3.71,San Diego
+Clothing,Wholesale,Credit Card,South,In-store,Returned,565.75,49,0.13,0.39,2.84,Philadelphia
+Beauty & Health,Business,Credit Card,East,Catalog,Cancelled,394.05,33,0.11,0.30,8.37,San Diego
+Electronics,Business,Bank Transfer,North,In-store,Pending,602.65,20,0.07,0.14,6.76,Dallas
+Electronics,Business,Credit Card,East,Catalog,Completed,519.42,41,0.09,0.11,4.98,Phoenix
+Home & Kitchen,Wholesale,PayPal,South,Online,Completed,693.73,67,0.08,0.25,7.96,Chicago
+Sports & Outdoors,Wholesale,PayPal,North,In-store,Completed,359.59,54,0.07,0.07,5.15,Phoenix
+Electronics,Wholesale,Bank Transfer,South,Catalog,Cancelled,434.47,25,0.14,0.38,3.28,Phoenix
+Sports & Outdoors,Wholesale,PayPal,South,Phone,Returned,421.58,53,0.12,0.32,8.05,Phoenix
+Electronics,Wholesale,Cash,North,Catalog,Pending,207.30,58,0.07,0.15,6.08,Chicago
+Clothing,Business,PayPal,North,Phone,Cancelled,559.22,32,0.14,0.03,2.93,San Jose
+Beauty & Health,Individual,PayPal,North,Phone,Returned,552.21,53,0.12,0.34,4.62,Houston
+Electronics,Business,Credit Card,West,Online,Cancelled,501.02,51,0.14,0.19,3.25,Dallas
+Sports & Outdoors,Wholesale,Credit Card,North,In-store,Pending,453.08,27,0.13,0.32,2.23,San Jose
